@@ -1,0 +1,6 @@
+requests
+asyncio
+colorama
+hydrogram
+colorlog
+pyfiglet

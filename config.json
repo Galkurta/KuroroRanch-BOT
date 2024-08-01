@@ -1,0 +1,6 @@
+{
+    "api_id": "INPUT YOUR API ID",
+    "api_hash": "INPUT YOUR API HASH",
+    "coin_limit": 1000000, 
+    "use_proxy": false
+  }
