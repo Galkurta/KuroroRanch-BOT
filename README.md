@@ -4,7 +4,7 @@
 - Auto mine and check in
 - Support multiple account
 - Register KuroroRanch [here](https://t.me/KuroroRanchBot/ranch?startapp=ref-B102FDDF)
-
+- Create your API ID & API HASH [here](https://my.telegram.org/)
 ## Installation
 ```
 git clone https://github.com/Galkurta/KuroroRanch-BOT.git
